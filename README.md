@@ -24,3 +24,5 @@
     }
         return 0;
     }
+
+![img](https://github.com/ekayuliaa11/PROGRAM-PENCARI-BILANGAN-PRIMA/blob/master/bilangan%20prima.png?raw=true)
